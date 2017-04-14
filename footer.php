@@ -15,20 +15,13 @@
         <div class="footer-bottom-social-icons">
             <ul id="footer-social-links">
               <li><a href="https://www.youtube.com/channel/UC3dDgmi3FuwLz02EU3dZVag" target="_blank"><i class="fa fa-youtube-square fa-2x" aria-hidden="true"></i></a></li>
+              <li><a href="https://github.com/WhollyCoders" target="_blank"><i class="fa fa-github-square fa-2x" aria-hidden="true"></i></a></li>
               <li><a href="https://www.facebook.com/whollycoder/" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a></li>
               <li><a href="https://twitter.com/michaellparks" target="_blank"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a></li>
               <li><a href="https://www.linkedin.com/in/michaellawrenceparks/" target="_blank"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a></li>
-              <li><a href="https://github.com/WhollyCoders" target="_blank"><i class="fa fa-github-square fa-2x" aria-hidden="true"></i></a></li>
-            </ul>
+            </ul><div class="footer-bottom-site-credit">Powered By: <span id="site-credit"><a href="http://whollycoder.com/contact" target="_blank">WhollyCoder</a></span></div>
         </div>
       </div>
     </footer>
   </body>
 </html>
-<?php
-// <li>
-//   <a href="https://www.facebook.com/michael.l.parks" target="_blank">
-//     <i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i>
-//   </a>
-// </li>
-?>
