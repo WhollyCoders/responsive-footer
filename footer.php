@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>Footer</title>
     <link rel="stylesheet" href="./fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
     <link rel="stylesheet" href="./css/footer-responsive.css">
   </head>
   <body>

@@ -1,5 +1,5 @@
 *{padding: 0px; margin: 0px;}
-body{font-family: arial, helvetica, sans-serif; font-size: 15px;}
+body{font-family: 'Oswald', arial, helvetica, sans-serif; font-size: 15px;}
 footer{background-color: #000; min-width: 320px; width: 100%; text-align: center; line-height: 35px; height: 35px; color: #ccc;}
 .footer-bottom-site-credit{padding-right: 10px;}
 span#site-credit a{color: #3399fe; font-size: 75%;}
